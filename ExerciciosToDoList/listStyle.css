@@ -1,0 +1,38 @@
+body {
+    background-color: #f7f7f7;
+    font-family: Arial, sans-serif;
+  }
+
+  h1 {
+    color: #7f8fa6;
+    text-align: center;
+    margin-top: 50px;
+  }
+
+  h2 {
+    color: #a5b1c2;
+    margin-top: 40px;
+    margin-bottom: 20px;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    background-color: #f0f6f7;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+  }
+
+  .done {
+    text-decoration: line-through;
+  }
+
+  input[type=checkbox] {
+    margin-right: 10px;
+  }
